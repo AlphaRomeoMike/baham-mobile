@@ -13,7 +13,8 @@ export default function AppFooter() {
 const styles = StyleSheet.create({
     container: {
         flex: 0.1,
-        backgroundColor: 'fuchsia'
+        padding: 5,
+        backgroundColor: '#fca311'
     },
     footer: {
         textAlign: 'auto',

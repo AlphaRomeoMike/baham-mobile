@@ -78,13 +78,13 @@ const styles = StyleSheet.create({
         fontSize: 24,
         borderWidth: 1,
         borderRadius: 15,
-        color: 'gold',
-        backgroundColor: 'darkblue',
+        color: '#fca311',
+        backgroundColor: '#14213d',
     },
     link: {
         textAlign: 'center',
         fontSize: 20,
         fontStyle: 'italic',
-        color: 'blue'
+        color: '#ef233c'
     },
 });

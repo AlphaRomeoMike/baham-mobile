@@ -16,7 +16,7 @@ const styles = StyleSheet.create({
         fontSize: 30,
         textAlign: 'center',
         fontWeight: 'bold',
-        color: 'black',
-        backgroundColor: 'gold'
+        color: '#edf2f4',
+        backgroundColor: '#14213d'
     }
 });
